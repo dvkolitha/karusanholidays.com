@@ -34,3 +34,6 @@ php.ini
 # OS files
 .DS_Store
 Thumbs.db
+
+#other files
+local-xdebuginfo
