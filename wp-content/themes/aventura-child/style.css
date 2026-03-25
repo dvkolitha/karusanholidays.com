@@ -1,0 +1,14 @@
+/*
+    Theme Name: Aventura Child Theme
+    Theme URI: http://wordpress.templaza.net/aventura
+    Author: Templaza
+    Author URI: http://templaza.com
+    Version: 2.7.4
+    Description: Aventura – Travelling WordPress Theme, coming with elegant and modest appearance, will be a meaningful WordPress theme for Travelling, Journey Blog. Its stunning beauty, fashionable clean look and proper execution, accompanying with making use of Visual Composer, Aventura and Revolution Slider plugin, will help you to own an awesome travelling site for your journey. Aventura will adapt automatically to the screen size of the device and display all the content in an intuitive and simple way.
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    Tags: one-column, two-columns, three-columns, four-columns, right-sidebar, custom-menu, featured-images, full-width-template, theme-options
+    Template: aventura
+*/
+
+@import url("../aventura/style.css");

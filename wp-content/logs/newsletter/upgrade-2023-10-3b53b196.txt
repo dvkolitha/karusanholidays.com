@@ -1,0 +1,61 @@
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 46.1 MB/512 MB -  > Start upgrade from 7.9.3
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.6 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.6 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.6 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.6 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.6 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.5 MB/512 MB -  > Backing up options of 7.9.3
+03-10-2023 22:53:39 - INFO  - 7.9.5 - 48.7 MB/512 MB -  > End
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 57.5 MB/512 MB -  > Start upgrade from 7.9.5
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.1 MB/512 MB -  > Backing up options of 7.9.5
+12-10-2023 07:13:30 - INFO  - 7.9.9 - 60.2 MB/512 MB -  > End

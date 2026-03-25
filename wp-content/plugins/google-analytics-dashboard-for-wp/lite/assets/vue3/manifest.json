@@ -1,0 +1,177 @@
+{
+  "_main-exactmetrics4.css": {
+    "file": "css/main-exactmetrics4.css",
+    "src": "_main-exactmetrics4.css"
+  },
+  "_main-exactmetrics5.css": {
+    "file": "css/main-exactmetrics5.css",
+    "src": "_main-exactmetrics5.css"
+  },
+  "_useAuthGate-B6lyRC98.js": {
+    "file": "js/chunks/useAuthGate-B6lyRC98.js",
+    "name": "useAuthGate",
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useSampleData-DjRjarai.js"
+    ],
+    "css": [
+      "css/main-exactmetrics4.css"
+    ]
+  },
+  "_useSampleData-DjRjarai.js": {
+    "file": "js/chunks/useSampleData-DjRjarai.js",
+    "name": "useSampleData",
+    "imports": [
+      "src/modules/custom-dashboard/main.js"
+    ],
+    "css": [
+      "css/main-exactmetrics5.css"
+    ]
+  },
+  "src/assets/icons/settings.svg": {
+    "file": "assets/settings.svg",
+    "src": "src/assets/icons/settings.svg"
+  },
+  "src/assets/img/logo-exactmetrics-agency.svg": {
+    "file": "assets/logo-exactmetrics-agency.svg",
+    "src": "src/assets/img/logo-exactmetrics-agency.svg"
+  },
+  "src/assets/img/logo-exactmetrics-plus.svg": {
+    "file": "assets/logo-exactmetrics-plus.svg",
+    "src": "src/assets/img/logo-exactmetrics-plus.svg"
+  },
+  "src/assets/img/logo-exactmetrics-pro.svg": {
+    "file": "assets/logo-exactmetrics-pro.svg",
+    "src": "src/assets/img/logo-exactmetrics-pro.svg"
+  },
+  "src/assets/img/logo-exactmetrics.png": {
+    "file": "assets/logo-exactmetrics.png",
+    "src": "src/assets/img/logo-exactmetrics.png"
+  },
+  "src/assets/img/logo-exactmetrics@2x.png": {
+    "file": "assets/logo-exactmetrics@2x.png",
+    "src": "src/assets/img/logo-exactmetrics@2x.png"
+  },
+  "src/assets/img/logo-exactmetrics-agency.svg": {
+    "file": "assets/logo-exactmetrics-agency.svg",
+    "src": "src/assets/img/logo-exactmetrics-agency.svg"
+  },
+  "src/assets/img/logo-exactmetrics-plus.svg": {
+    "file": "assets/logo-exactmetrics-plus.svg",
+    "src": "src/assets/img/logo-exactmetrics-plus.svg"
+  },
+  "src/assets/img/logo-exactmetrics-pro.svg": {
+    "file": "assets/logo-exactmetrics-pro.svg",
+    "src": "src/assets/img/logo-exactmetrics-pro.svg"
+  },
+  "src/assets/img/logo-exactmetrics.png": {
+    "file": "assets/logo-exactmetrics.png",
+    "src": "src/assets/img/logo-exactmetrics.png"
+  },
+  "src/assets/img/logo-exactmetrics@2x.png": {
+    "file": "assets/logo-exactmetrics@2x.png",
+    "src": "src/assets/img/logo-exactmetrics@2x.png"
+  },
+  "src/assets/img/sample-image-exactmetrics.png": {
+    "file": "assets/sample-image-exactmetrics.png",
+    "src": "src/assets/img/sample-image-exactmetrics.png"
+  },
+  "src/assets/img/sample-image-exactmetrics.png": {
+    "file": "assets/sample-image-exactmetrics.png",
+    "src": "src/assets/img/sample-image-exactmetrics.png"
+  },
+  "src/modules/custom-dashboard/main.js": {
+    "file": "js/custom-dashboard.js",
+    "name": "custom-dashboard",
+    "src": "src/modules/custom-dashboard/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/stores/sample-data/custom-dashboard/sample-view.json",
+      "src/stores/sample-data/custom-dashboard/widgets-data.json",
+      "src/modules/custom-dashboard/views/DashboardList.lite.vue",
+      "src/modules/custom-dashboard/views/DashboardCreate.vue",
+      "src/modules/custom-dashboard/views/DashboardEdit.vue",
+      "src/modules/custom-dashboard/views/DashboardView.vue"
+    ],
+    "css": [
+      "css/main-exactmetrics.css"
+    ],
+    "assets": [
+      "assets/logo-exactmetrics-agency.svg",
+      "assets/logo-exactmetrics-plus.svg",
+      "assets/logo-exactmetrics-pro.svg",
+      "assets/logo-exactmetrics.png",
+      "assets/logo-exactmetrics@2x.png",
+      "assets/logo-exactmetrics-agency.svg",
+      "assets/logo-exactmetrics-plus.svg",
+      "assets/logo-exactmetrics-pro.svg",
+      "assets/logo-exactmetrics.png",
+      "assets/logo-exactmetrics@2x.png",
+      "assets/sample-image-exactmetrics.png",
+      "assets/sample-image-exactmetrics.png"
+    ]
+  },
+  "src/modules/custom-dashboard/styles/main-exactmetrics.scss": {
+    "file": "css/main-exactmetrics2.css",
+    "src": "src/modules/custom-dashboard/styles/main-exactmetrics.scss"
+  },
+  "src/modules/custom-dashboard/views/DashboardCreate.vue": {
+    "file": "js/chunks/DashboardCreate-Cv1otGGk.js",
+    "name": "DashboardCreate",
+    "src": "src/modules/custom-dashboard/views/DashboardCreate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-B6lyRC98.js",
+      "_useSampleData-DjRjarai.js"
+    ],
+    "css": [
+      "css/main-exactmetrics3.css"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardEdit.vue": {
+    "file": "js/chunks/DashboardEdit-C79RxVWV.js",
+    "name": "DashboardEdit",
+    "src": "src/modules/custom-dashboard/views/DashboardEdit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/views/DashboardCreate.vue",
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-B6lyRC98.js",
+      "_useSampleData-DjRjarai.js"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardList.lite.vue": {
+    "file": "js/chunks/DashboardList.lite-X9CRLcli.js",
+    "name": "DashboardList.lite",
+    "src": "src/modules/custom-dashboard/views/DashboardList.lite.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useSampleData-DjRjarai.js"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardView.vue": {
+    "file": "js/chunks/DashboardView-DMG5rJ0K.js",
+    "name": "DashboardView",
+    "src": "src/modules/custom-dashboard/views/DashboardView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-B6lyRC98.js",
+      "_useSampleData-DjRjarai.js"
+    ]
+  },
+  "src/stores/sample-data/custom-dashboard/sample-view.json": {
+    "file": "js/chunks/sample-view-DCgpbF5N.js",
+    "name": "sample-view",
+    "src": "src/stores/sample-data/custom-dashboard/sample-view.json",
+    "isDynamicEntry": true
+  },
+  "src/stores/sample-data/custom-dashboard/widgets-data.json": {
+    "file": "js/chunks/widgets-data-TjimP1Ju.js",
+    "name": "widgets-data",
+    "src": "src/stores/sample-data/custom-dashboard/widgets-data.json",
+    "isDynamicEntry": true
+  }
+}

@@ -1,0 +1,80 @@
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 101.2 MB/512 MB -  > Start upgrade from 8.8.7
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Deleting settings backup newsletter_backup_8.8.1
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.3 MB/512 MB -  > Backing up options of 8.8.7
+09-06-2025 11:54:32 - INFO  - 8.9.0 - 103.7 MB/512 MB -  > End
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 17.9 MB/512 MB -  > Start upgrade from 8.9.0
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+23-06-2025 18:39:24 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+23-06-2025 18:39:25 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+23-06-2025 18:39:25 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Deleting settings backup newsletter_backup_8.8.2
+23-06-2025 18:39:25 - INFO  - 8.9.1 - 19.9 MB/512 MB -  > Backing up options of 8.9.0
+23-06-2025 18:39:25 - INFO  - 8.9.1 - 20.3 MB/512 MB -  > End

@@ -1,0 +1,56 @@
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 84.3 MB/512 MB -  > Start upgrade from 7.8.9
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 86.8 MB/512 MB -  > Backing up options of 7.8.9
+01-09-2023 14:02:19 - INFO  - 7.9.2 - 87.0 MB/512 MB -  > End
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 45.2 MB/512 MB -  > Start upgrade from 7.9.2
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.7 MB/512 MB -  > Backing up options of 7.9.2
+17-09-2023 07:15:53 - INFO  - 7.9.3 - 47.8 MB/512 MB -  > End

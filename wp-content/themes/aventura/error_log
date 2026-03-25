@@ -1,0 +1,4 @@
+[05-Nov-2025 13:37:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/karusan3/public_html/karusanholidays/wp-content/themes/aventura/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/karusan3/public_html/karusanholidays/wp-content/themes/aventura/index.php on line 2

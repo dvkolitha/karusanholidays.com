@@ -1,0 +1,4 @@
+[20-Feb-2026 20:49:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/karusan3/public_html/karusanholidays/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/karusan3/public_html/karusanholidays/wp-content/themes/twentytwentyone/index.php on line 17

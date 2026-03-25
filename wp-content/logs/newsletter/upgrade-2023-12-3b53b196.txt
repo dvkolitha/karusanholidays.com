@@ -1,0 +1,33 @@
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 17.8 MB/512 MB -  > Start upgrade from 8.0.4
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.0 MB/512 MB -  > Backing up options of 8.0.4
+29-12-2023 14:01:59 - INFO  - 8.0.6 - 21.1 MB/512 MB -  > End

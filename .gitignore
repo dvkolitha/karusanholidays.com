@@ -1,0 +1,36 @@
+# Core config
+wp-config.php
+.htaccess
+
+# WordPress core (optional – recommended)
+wp-admin/
+wp-includes/
+wp-*.php
+xmlrpc.php
+index.php
+license.txt
+readme.html
+
+# Media & cache
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/wp-cache-config.php
+
+# Logs
+*.log
+wp-content/debug.log
+
+# Build tools
+node_modules/
+
+# Cloudways-generated
+.user.ini
+php.ini
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,73 @@
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 18.1 MB/512 MB -  > Start upgrade from 9.0.8
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Deleting settings backup newsletter_backup_8.9.8
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.2 MB/512 MB -  > Backing up options of 9.0.8
+03-12-2025 23:08:28 - INFO  - 9.0.9 - 20.6 MB/512 MB -  > End
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 145.8 MB/512 MB - [cron] > Start upgrade from 9.0.9
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Array
+(
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.1 MB/512 MB - [cron] > Deleting settings backup newsletter_backup_8.9.9
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.3 MB/512 MB - [cron] > Backing up options of 9.0.9
+11-12-2025 05:38:42 - INFO  - 9.1.0 - 148.7 MB/512 MB - [cron] > End

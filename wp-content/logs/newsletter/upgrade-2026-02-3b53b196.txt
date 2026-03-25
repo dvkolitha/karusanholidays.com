@@ -1,0 +1,65 @@
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 18.5 MB/512 MB - [cron] > Start upgrade from 9.1.2
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Array
+(
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.4 MB/512 MB - [cron] > Backing up options of 9.1.2
+23-02-2026 22:14:22 - INFO  - 9.1.4 - 20.8 MB/512 MB - [cron] > End
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 18.5 MB/512 MB - [cron] > Start upgrade from 9.1.4
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Array
+(
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.5 MB/512 MB - [cron] > Deleting settings backup newsletter_backup_9.0.7
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 20.7 MB/512 MB - [cron] > Backing up options of 9.1.4
+27-02-2026 19:06:55 - INFO  - 9.1.5 - 21.1 MB/512 MB - [cron] > End

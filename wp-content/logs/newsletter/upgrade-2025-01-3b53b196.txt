@@ -1,0 +1,116 @@
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 50.4 MB/ -  > Start upgrade from 8.6.4
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 51.9 MB/ -  > Deleting settings backup newsletter_backup_8.3.3
+01-01-2025 10:27:24 - INFO  - 8.6.4 - 52.0 MB/ -  > End
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 123.2 MB/512 MB -  > Start upgrade from 8.6.4
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+21-01-2025 23:36:39 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+21-01-2025 23:36:40 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+21-01-2025 23:36:40 - INFO  - 8.6.6 - 125.2 MB/512 MB -  > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+21-01-2025 23:36:40 - INFO  - 8.6.6 - 125.3 MB/512 MB -  > End
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 17.8 MB/512 MB - [cron] > Start upgrade from 8.6.6
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_emails`] => Created table `GND_newsletter_emails`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_sent`] => Created table `GND_newsletter_sent`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter`] => Created table `GND_newsletter`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_user_logs`] => Created table `GND_newsletter_user_logs`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_user_meta`] => Created table `GND_newsletter_user_meta`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_stats`] => Created table `GND_newsletter_stats`
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Array
+(
+    [`GND_newsletter_logs`] => Created table `GND_newsletter_logs`
+    [GND_newsletter_logs.status] => Changed type of GND_newsletter_logs.status from int(11) to int
+)
+
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.0 MB/512 MB - [cron] > Backing up options of 8.6.6
+28-01-2025 13:19:11 - INFO  - 8.6.7 - 19.2 MB/512 MB - [cron] > End
